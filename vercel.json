@@ -1,0 +1,9 @@
+{
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_STRIPE_PUBLIC_KEY": "put_your_stripe_public_key_here",
+      "NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://risul.halalexpressbd.com/graphql",
+      "OLD_NEXT_PUBLIC_GRAPHQL_API_ENDPOINT": "https://buyandbazar-api.vercel.app/shop/graphql"
+    }
+  }
+}
